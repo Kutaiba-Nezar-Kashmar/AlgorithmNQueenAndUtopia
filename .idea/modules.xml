@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlgorithmNQueenAndUtopia.iml" filepath="$PROJECT_DIR$/AlgorithmNQueenAndUtopia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n-queens/n-queens.iml" filepath="$PROJECT_DIR$/n-queens/n-queens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utopia-coins/utopia-coins.iml" filepath="$PROJECT_DIR$/utopia-coins/utopia-coins.iml" />
     </modules>
   </component>
 </project>
